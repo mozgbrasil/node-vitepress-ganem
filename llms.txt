@@ -1,0 +1,89 @@
+# Familia Ganem | Presenca publica institucional
+
+- Company: Familia Ganem
+- Author: Familia Ganem
+- Role: Presenca publica institucional
+- Location: Sao Paulo, Brasil
+- Site: https://mozgbrasil.github.io/node-vitepress-ganem/
+- Generated at: 2026-04-27T07:55:59.724Z
+
+## Summary
+Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal.
+
+## Pages
+- Familia Ganem | Presenca publica institucional: https://mozgbrasil.github.io/node-vitepress-ganem//
+- Contato: https://mozgbrasil.github.io/node-vitepress-ganem//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-ganem//presenca
+
+## API
+- GET /api/health: Status operacional e metadados de request.
+- GET /api/openapi.json: Contrato OpenAPI 3.1 da camada publica e auditavel.
+- GET /api/v1/openapi.json: Alias versionado do contrato OpenAPI para integracoes e tooling.
+- GET /api/profile: Resumo institucional com canais e especialidades.
+- GET /api/profiles: Diretorio dos perfis suportados com repositorios publicos e referencias principais.
+- GET /api/links: Catalogo de links publicos da marca e da conta pessoal.
+- GET /api/catalog: Catalogo compartilhado que alimenta o site e a camada publica.
+- GET /api/audit: Snapshot de contagem, rotas, superficies e exportacoes publicas.
+- GET /api/discovery: Inventario plano de recursos publicos para filtros, automacao e exploracao.
+- GET /api/portfolio: Snapshot filtravel dos casos, stacks, categorias e sinais do portfolio.
+- GET /api/categories: Diretorio tematico por categoria com sinais, stacks, capacidades e relacoes operacionais.
+- GET /api/categories/:slug: Dossier aprofundado de uma categoria com portfolio, projetos, capacidades e operacao ligada.
+- GET /api/capabilities: Dominios de capacidade, tecnologias e modos de entrega do laboratorio.
+- GET /api/stacks: Mapa das tecnologias recorrentes com conexoes entre portfolio e capacidades.
+- GET /api/stacks/:slug: Dossier aprofundado de uma stack com projetos ligados, comandos uteis e operacao relacionada.
+- GET /api/projects: Diretorio filtravel dos dossiers tecnicos e operacionais por projeto.
+- GET /api/projects/:slug: Detalhe de um dossier especifico com relacoes, comandos e superficies.
+- GET /api/operations: Dossiers operacionais com quality gates, rotas, stacks e projetos conectados.
+- GET /api/operations/:slug: Detalhe de um dossier operacional especifico para leitura profunda por fluxo.
+- GET /api/journeys: Diretorio filtravel da jornada publica com etapas, links e contexto comercial.
+- GET /api/trust: Diretorio de sinais institucionais para contato, prova social e politicas publicas.
+
+## Projects
+
+
+## Portfolio
+
+
+## Project Dossiers
+
+
+## Capability Domains
+
+
+## Categories
+
+
+## Stacks
+
+
+## Operations
+
+
+## Public Journeys
+
+
+## Trust Signals
+- Mandato municipal em Sao Paulo: Simone Ganem possui pagina oficial ativa na Camara Municipal de Sao Paulo com apresentacao publica e contato de gabinete. [Camara SP]
+- Mandato estadual em Sao Paulo: Clarice Ganem aparece em canais oficiais da Assembleia Legislativa do Estado de Sao Paulo. [ALESP]
+- Mandato federal em exercicio: Bruno Ganem consta como deputado federal em exercicio no portal oficial da Camara dos Deputados. [Camara dos Deputados]
+- Representacao em Belo Horizonte: Lucas Ganem possui pagina oficial de vereador na Camara Municipal de Belo Horizonte. [CMBH]
+- Bandeira publica recorrente: Os perfis publicos e referencias oficiais convergem na defesa da causa animal como um dos eixos centrais. [Causa animal]
+
+## Static Exports
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-ganem//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-ganem//robots.txt
+
+## Quality Gates
+

@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-04-27T07:55:59.724Z",
+  "filters_applied": {},
+  "total_signals": 5,
+  "total_available_signals": 5,
+  "linked_signals": 5,
+  "signals": [
+    {
+      "title": "Mandato municipal em Sao Paulo",
+      "description": "Simone Ganem possui pagina oficial ativa na Camara Municipal de Sao Paulo com apresentacao publica e contato de gabinete.",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "value": "Camara SP"
+    },
+    {
+      "title": "Mandato estadual em Sao Paulo",
+      "description": "Clarice Ganem aparece em canais oficiais da Assembleia Legislativa do Estado de Sao Paulo.",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "value": "ALESP"
+    },
+    {
+      "title": "Mandato federal em exercicio",
+      "description": "Bruno Ganem consta como deputado federal em exercicio no portal oficial da Camara dos Deputados.",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "value": "Camara dos Deputados"
+    },
+    {
+      "title": "Representacao em Belo Horizonte",
+      "description": "Lucas Ganem possui pagina oficial de vereador na Camara Municipal de Belo Horizonte.",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "value": "CMBH"
+    },
+    {
+      "title": "Bandeira publica recorrente",
+      "description": "Os perfis publicos e referencias oficiais convergem na defesa da causa animal como um dos eixos centrais.",
+      "href": "https://www.instagram.com/brunoganemsp/",
+      "value": "Causa animal"
+    }
+  ]
+}

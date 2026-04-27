@@ -1,0 +1,562 @@
+{
+  "generated_at": "2026-04-27T07:55:59.724Z",
+  "filters_applied": {},
+  "total_items": 59,
+  "total_available_items": 59,
+  "kinds": [
+    { "label": "api", "count": 21 },
+    { "label": "presence", "count": 17 },
+    { "label": "contact", "count": 8 },
+    { "label": "surface", "count": 5 },
+    { "label": "trust", "count": 5 },
+    { "label": "page", "count": 3 }
+  ],
+  "items": [
+    {
+      "id": "api-api-audit",
+      "kind": "api",
+      "title": "GET /api/audit",
+      "description": "Snapshot de contagem, rotas, superficies e exportacoes publicas.",
+      "href": "/api/audit",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-capabilities",
+      "kind": "api",
+      "title": "GET /api/capabilities",
+      "description": "Dominios de capacidade, tecnologias e modos de entrega do laboratorio.",
+      "href": "/api/capabilities",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-catalog",
+      "kind": "api",
+      "title": "GET /api/catalog",
+      "description": "Catalogo compartilhado que alimenta o site e a camada publica.",
+      "href": "/api/catalog",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-categories",
+      "kind": "api",
+      "title": "GET /api/categories",
+      "description": "Diretorio tematico por categoria com sinais, stacks, capacidades e relacoes operacionais.",
+      "href": "/api/categories",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-categories-slug",
+      "kind": "api",
+      "title": "GET /api/categories/:slug",
+      "description": "Dossier aprofundado de uma categoria com portfolio, projetos, capacidades e operacao ligada.",
+      "href": "/api/categories/:slug",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-discovery",
+      "kind": "api",
+      "title": "GET /api/discovery",
+      "description": "Inventario plano de recursos publicos para filtros, automacao e exploracao.",
+      "href": "/api/discovery",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-health",
+      "kind": "api",
+      "title": "GET /api/health",
+      "description": "Status operacional e metadados de request.",
+      "href": "/api/health",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-journeys",
+      "kind": "api",
+      "title": "GET /api/journeys",
+      "description": "Diretorio filtravel da jornada publica com etapas, links e contexto comercial.",
+      "href": "/api/journeys",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-links",
+      "kind": "api",
+      "title": "GET /api/links",
+      "description": "Catalogo de links publicos da marca e da conta pessoal.",
+      "href": "/api/links",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-openapi-json",
+      "kind": "api",
+      "title": "GET /api/openapi.json",
+      "description": "Contrato OpenAPI 3.1 da camada publica e auditavel.",
+      "href": "/api/openapi.json",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-operations",
+      "kind": "api",
+      "title": "GET /api/operations",
+      "description": "Dossiers operacionais com quality gates, rotas, stacks e projetos conectados.",
+      "href": "/api/operations",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-operations-slug",
+      "kind": "api",
+      "title": "GET /api/operations/:slug",
+      "description": "Detalhe de um dossier operacional especifico para leitura profunda por fluxo.",
+      "href": "/api/operations/:slug",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-portfolio",
+      "kind": "api",
+      "title": "GET /api/portfolio",
+      "description": "Snapshot filtravel dos casos, stacks, categorias e sinais do portfolio.",
+      "href": "/api/portfolio",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-profile",
+      "kind": "api",
+      "title": "GET /api/profile",
+      "description": "Resumo institucional com canais e especialidades.",
+      "href": "/api/profile",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-profiles",
+      "kind": "api",
+      "title": "GET /api/profiles",
+      "description": "Diretorio dos perfis suportados com repositorios publicos e referencias principais.",
+      "href": "/api/profiles",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-projects",
+      "kind": "api",
+      "title": "GET /api/projects",
+      "description": "Diretorio filtravel dos dossiers tecnicos e operacionais por projeto.",
+      "href": "/api/projects",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-projects-slug",
+      "kind": "api",
+      "title": "GET /api/projects/:slug",
+      "description": "Detalhe de um dossier especifico com relacoes, comandos e superficies.",
+      "href": "/api/projects/:slug",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-stacks",
+      "kind": "api",
+      "title": "GET /api/stacks",
+      "description": "Mapa das tecnologias recorrentes com conexoes entre portfolio e capacidades.",
+      "href": "/api/stacks",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-stacks-slug",
+      "kind": "api",
+      "title": "GET /api/stacks/:slug",
+      "description": "Dossier aprofundado de uma stack com projetos ligados, comandos uteis e operacao relacionada.",
+      "href": "/api/stacks/:slug",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-trust",
+      "kind": "api",
+      "title": "GET /api/trust",
+      "description": "Diretorio de sinais institucionais para contato, prova social e politicas publicas.",
+      "href": "/api/trust",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "api-api-v1-openapi-json",
+      "kind": "api",
+      "title": "GET /api/v1/openapi.json",
+      "description": "Alias versionado do contrato OpenAPI para integracoes e tooling.",
+      "href": "/api/v1/openapi.json",
+      "tags": ["api", "get", "auditabilidade"],
+      "meta": "Endpoint publico"
+    },
+    {
+      "id": "contact-alesp-clarice-ganem",
+      "kind": "contact",
+      "title": "ALESP | Clarice Ganem",
+      "description": "pagina oficial do mandato estadual",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "tags": ["contato", "canal", "alesp-clarice-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-camara-dos-deputados-bruno-ganem",
+      "kind": "contact",
+      "title": "Camara dos Deputados | Bruno Ganem",
+      "description": "pagina oficial do mandato federal",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "tags": ["contato", "canal", "camara-dos-deputados-bruno-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-camara-sp-simone-ganem",
+      "kind": "contact",
+      "title": "Camara SP | Simone Ganem",
+      "description": "pagina oficial do mandato municipal",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "tags": ["contato", "canal", "camara-sp-simone-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-cmbh-lucas-ganem",
+      "kind": "contact",
+      "title": "CMBH | Lucas Ganem",
+      "description": "pagina oficial do mandato municipal em Belo Horizonte",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "tags": ["contato", "canal", "cmbh-lucas-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-instagram-bruno-ganem",
+      "kind": "contact",
+      "title": "Instagram Bruno Ganem",
+      "description": "canal social publico do deputado federal",
+      "href": "https://www.instagram.com/brunoganemsp/",
+      "tags": ["contato", "canal", "instagram-bruno-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-instagram-clarice-ganem",
+      "kind": "contact",
+      "title": "Instagram Clarice Ganem",
+      "description": "canal social publico da deputada estadual",
+      "href": "https://www.instagram.com/clariceganemsp/",
+      "tags": ["contato", "canal", "instagram-clarice-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-instagram-lucas-ganem",
+      "kind": "contact",
+      "title": "Instagram Lucas Ganem",
+      "description": "canal social publico do vereador em Belo Horizonte",
+      "href": "https://www.instagram.com/lucasganem.mg/",
+      "tags": ["contato", "canal", "instagram-lucas-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "contact-instagram-simone-ganem",
+      "kind": "contact",
+      "title": "Instagram Simone Ganem",
+      "description": "canal social publico da vereadora em Sao Paulo",
+      "href": "https://www.instagram.com/simoneganemsp/",
+      "tags": ["contato", "canal", "instagram-simone-ganem"],
+      "meta": "Contato principal"
+    },
+    {
+      "id": "page-contato",
+      "kind": "page",
+      "title": "Contato",
+      "description": "Canais públicos e pontos principais de contato de Familia Ganem.",
+      "href": "/contato",
+      "tags": ["pagina", "site", "/contato"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-familia-ganem-presenca-publica-institucional",
+      "kind": "page",
+      "title": "Familia Ganem | Presenca publica institucional",
+      "description": "Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal.",
+      "href": "/",
+      "tags": ["pagina", "site", "/"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "page-perfis",
+      "kind": "page",
+      "title": "Perfis",
+      "description": "Superfícies públicas e referências principais de Familia Ganem.",
+      "href": "/presenca",
+      "tags": ["pagina", "site", "/presenca"],
+      "meta": "Navegacao principal"
+    },
+    {
+      "id": "presence-bruno-ganem-camara-dos-deputados",
+      "kind": "presence",
+      "title": "Bruno Ganem · Camara dos Deputados",
+      "description": "pagina oficial do mandato",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "tags": ["personal", "presenca", "camara-dos-deputados"],
+      "meta": "@brunoganemsp"
+    },
+    {
+      "id": "presence-bruno-ganem-instagram",
+      "kind": "presence",
+      "title": "Bruno Ganem · Instagram",
+      "description": "canal publico principal",
+      "href": "https://www.instagram.com/brunoganemsp/",
+      "tags": ["personal", "presenca", "instagram"],
+      "meta": "@brunoganemsp"
+    },
+    {
+      "id": "presence-bruno-ganem-oficial-camara-dos-deputados",
+      "kind": "presence",
+      "title": "Bruno Ganem · Oficial · Camara dos Deputados",
+      "description": "Deputado federal no grupo Oficial.",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "tags": ["personal", "presenca", "oficial", "camara-dos-deputados"],
+      "meta": "@brunoganemsp"
+    },
+    {
+      "id": "presence-bruno-ganem-social-instagram",
+      "kind": "presence",
+      "title": "Bruno Ganem · Social · Instagram",
+      "description": "Deputado federal no grupo Social.",
+      "href": "https://www.instagram.com/brunoganemsp/",
+      "tags": ["personal", "presenca", "social", "instagram"],
+      "meta": "@brunoganemsp"
+    },
+    {
+      "id": "presence-clarice-ganem-alesp",
+      "kind": "presence",
+      "title": "Clarice Ganem · ALESP",
+      "description": "pagina oficial do mandato",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "tags": ["personal", "presenca", "alesp"],
+      "meta": "@clariceganemsp"
+    },
+    {
+      "id": "presence-clarice-ganem-instagram",
+      "kind": "presence",
+      "title": "Clarice Ganem · Instagram",
+      "description": "canal publico principal",
+      "href": "https://www.instagram.com/clariceganemsp/",
+      "tags": ["personal", "presenca", "instagram"],
+      "meta": "@clariceganemsp"
+    },
+    {
+      "id": "presence-clarice-ganem-oficial-assembleia-legislativa-de-sao-paulo",
+      "kind": "presence",
+      "title": "Clarice Ganem · Oficial · Assembleia Legislativa de Sao Paulo",
+      "description": "Deputada estadual no grupo Oficial.",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "tags": [
+        "personal",
+        "presenca",
+        "oficial",
+        "assembleia-legislativa-de-sao-paulo"
+      ],
+      "meta": "@clariceganemsp"
+    },
+    {
+      "id": "presence-clarice-ganem-social-instagram",
+      "kind": "presence",
+      "title": "Clarice Ganem · Social · Instagram",
+      "description": "Deputada estadual no grupo Social.",
+      "href": "https://www.instagram.com/clariceganemsp/",
+      "tags": ["personal", "presenca", "social", "instagram"],
+      "meta": "@clariceganemsp"
+    },
+    {
+      "id": "presence-lucas-ganem-cmbh",
+      "kind": "presence",
+      "title": "Lucas Ganem · CMBH",
+      "description": "pagina oficial do mandato",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "tags": ["personal", "presenca", "cmbh"],
+      "meta": "@lucasganem.mg"
+    },
+    {
+      "id": "presence-lucas-ganem-instagram",
+      "kind": "presence",
+      "title": "Lucas Ganem · Instagram",
+      "description": "canal publico principal",
+      "href": "https://www.instagram.com/lucasganem.mg/",
+      "tags": ["personal", "presenca", "instagram"],
+      "meta": "@lucasganem.mg"
+    },
+    {
+      "id": "presence-lucas-ganem-oficial-camara-municipal-de-belo-horizonte",
+      "kind": "presence",
+      "title": "Lucas Ganem · Oficial · Camara Municipal de Belo Horizonte",
+      "description": "Vereador no grupo Oficial.",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "tags": [
+        "personal",
+        "presenca",
+        "oficial",
+        "camara-municipal-de-belo-horizonte"
+      ],
+      "meta": "@lucasganem.mg"
+    },
+    {
+      "id": "presence-lucas-ganem-social-instagram",
+      "kind": "presence",
+      "title": "Lucas Ganem · Social · Instagram",
+      "description": "Vereador no grupo Social.",
+      "href": "https://www.instagram.com/lucasganem.mg/",
+      "tags": ["personal", "presenca", "social", "instagram"],
+      "meta": "@lucasganem.mg"
+    },
+    {
+      "id": "presence-simone-ganem-camara-sp",
+      "kind": "presence",
+      "title": "Simone Ganem · Camara SP",
+      "description": "pagina oficial do mandato",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "tags": ["personal", "presenca", "camara-sp"],
+      "meta": "@simoneganemsp"
+    },
+    {
+      "id": "presence-simone-ganem-instagram",
+      "kind": "presence",
+      "title": "Simone Ganem · Instagram",
+      "description": "canal publico principal",
+      "href": "https://www.instagram.com/simoneganemsp/",
+      "tags": ["personal", "presenca", "instagram"],
+      "meta": "@simoneganemsp"
+    },
+    {
+      "id": "presence-simone-ganem-oficial-camara-municipal-de-sao-paulo",
+      "kind": "presence",
+      "title": "Simone Ganem · Oficial · Camara Municipal de Sao Paulo",
+      "description": "Vereadora no grupo Oficial.",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "tags": [
+        "personal",
+        "presenca",
+        "oficial",
+        "camara-municipal-de-sao-paulo"
+      ],
+      "meta": "@simoneganemsp"
+    },
+    {
+      "id": "presence-simone-ganem-social-facebook",
+      "kind": "presence",
+      "title": "Simone Ganem · Social · Facebook",
+      "description": "Vereadora no grupo Social.",
+      "href": "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+      "tags": ["personal", "presenca", "social", "facebook"],
+      "meta": "@simoneganemsp"
+    },
+    {
+      "id": "presence-simone-ganem-social-instagram",
+      "kind": "presence",
+      "title": "Simone Ganem · Social · Instagram",
+      "description": "Vereadora no grupo Social.",
+      "href": "https://www.instagram.com/simoneganemsp/",
+      "tags": ["personal", "presenca", "social", "instagram"],
+      "meta": "@simoneganemsp"
+    },
+    {
+      "id": "surface-bruno-ganem-camara-dos-deputados",
+      "kind": "surface",
+      "title": "Bruno Ganem | Camara dos Deputados",
+      "description": "Pagina oficial do mandato federal com dados parlamentares, biografia e contato de gabinete.",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-clarice-ganem-alesp",
+      "kind": "surface",
+      "title": "Clarice Ganem | ALESP",
+      "description": "Referencia institucional do mandato estadual de Clarice Ganem na Assembleia Legislativa de Sao Paulo.",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-lucas-ganem-cmbh",
+      "kind": "surface",
+      "title": "Lucas Ganem | CMBH",
+      "description": "Pagina oficial do vereador em Belo Horizonte com historico, contato parlamentar e mandato 2025-2028.",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie institucional dedicada para consolidar contexto, familia politica e distribuicao editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "surface-simone-ganem-camara-municipal-de-sao-paulo",
+      "kind": "surface",
+      "title": "Simone Ganem | Camara Municipal de Sao Paulo",
+      "description": "Pagina oficial da vereadora em Sao Paulo com biografia, agenda e canais de contato do gabinete.",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
+    },
+    {
+      "id": "trust-bandeira-publica-recorrente",
+      "kind": "trust",
+      "title": "Bandeira publica recorrente",
+      "description": "Os perfis publicos e referencias oficiais convergem na defesa da causa animal como um dos eixos centrais.",
+      "href": "https://www.instagram.com/brunoganemsp",
+      "tags": ["confianca", "institucional", "bandeira-publica-recorrente"],
+      "meta": "Causa animal"
+    },
+    {
+      "id": "trust-mandato-estadual-em-sao-paulo",
+      "kind": "trust",
+      "title": "Mandato estadual em Sao Paulo",
+      "description": "Clarice Ganem aparece em canais oficiais da Assembleia Legislativa do Estado de Sao Paulo.",
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "tags": ["confianca", "institucional", "mandato-estadual-em-sao-paulo"],
+      "meta": "ALESP"
+    },
+    {
+      "id": "trust-mandato-federal-em-exercicio",
+      "kind": "trust",
+      "title": "Mandato federal em exercicio",
+      "description": "Bruno Ganem consta como deputado federal em exercicio no portal oficial da Camara dos Deputados.",
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "tags": ["confianca", "institucional", "mandato-federal-em-exercicio"],
+      "meta": "Camara dos Deputados"
+    },
+    {
+      "id": "trust-mandato-municipal-em-sao-paulo",
+      "kind": "trust",
+      "title": "Mandato municipal em Sao Paulo",
+      "description": "Simone Ganem possui pagina oficial ativa na Camara Municipal de Sao Paulo com apresentacao publica e contato de gabinete.",
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem",
+      "tags": ["confianca", "institucional", "mandato-municipal-em-sao-paulo"],
+      "meta": "Camara SP"
+    },
+    {
+      "id": "trust-representacao-em-belo-horizonte",
+      "kind": "trust",
+      "title": "Representacao em Belo Horizonte",
+      "description": "Lucas Ganem possui pagina oficial de vereador na Camara Municipal de Belo Horizonte.",
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "tags": ["confianca", "institucional", "representacao-em-belo-horizonte"],
+      "meta": "CMBH"
+    }
+  ]
+}

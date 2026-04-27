@@ -1,0 +1,605 @@
+{
+  "generated_at": "2026-04-27T07:55:59.724Z",
+  "active_profile": "ganem",
+  "profiles": [
+    {
+      "id": "mozg",
+      "slug": "mozg",
+      "label": "MOZG",
+      "title": "MOZG | Marcio dos Santos Amorim",
+      "headline": "Laboratorio principal",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress",
+      "primaryUrl": "https://mozg.com.br",
+      "sourceUrls": [
+        "https://mozg.com.br/",
+        "https://github.com/mozgbrasil/node-vitepress"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress",
+          "label": "Repositorio publico",
+          "note": "codigo-fonte e historico publico do site"
+        },
+        {
+          "href": "https://github.com/sponsors/mozgbrasil",
+          "label": "GitHub Sponsors",
+          "note": "apoio publico ao laboratorio"
+        },
+        {
+          "href": "https://bsky.app/profile/mozgbrasil.bsky.social",
+          "label": "Bluesky",
+          "note": "canal publico complementar"
+        },
+        {
+          "href": "https://developers.google.com/profile/u/mozgbrasil",
+          "label": "Google Developers",
+          "note": "identidade publica no ecossistema Google"
+        },
+        {
+          "href": "https://openprofile.dev/profile/mozgbrasil",
+          "label": "OpenProfile",
+          "note": "perfil publico complementar"
+        },
+        {
+          "href": "https://brasilparticipativo.presidencia.gov.br/profiles/mozgbrasil/activity",
+          "label": "Brasil Participativo",
+          "note": "presenca publica complementar"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [],
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "francisco",
+      "slug": "francisco",
+      "label": "Francisco",
+      "title": "Francisco Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-francisco",
+      "primaryUrl": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+      "sourceUrls": ["https://www.linkedin.com/in/francisco-amorim-35228438/"],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [
+        { "value": "LinkedIn", "label": "como trilha profissional principal" },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
+        {
+          "value": "Portfólio pessoal",
+          "label": "com narrativa simples e direta"
+        }
+      ],
+      "heroMetricsEn": [
+        { "value": "LinkedIn", "label": "as the main professional trail" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
+        { "value": "Personal portfolio", "label": "with a clear narrative" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "alice",
+      "slug": "alice",
+      "label": "Alice",
+      "title": "Maria Alice dos Santos Amorim | Alice Holding",
+      "headline": "Super empreendedora e fundadora da Alice Holding",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-alice",
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "sourceUrls": ["https://mozgbrasil.github.io/node-vitepress-alice/"],
+      "referenceLinks": [
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil institucional"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [
+        {
+          "value": "Alice Holding",
+          "label": "como marca institucional central"
+        },
+        { "value": "Multi-negocios", "label": "com leitura clara e moderna" },
+        {
+          "value": "Presença autoral",
+          "label": "com narrativa publica dedicada"
+        }
+      ],
+      "heroMetricsEn": [
+        { "value": "Alice Holding", "label": "as the central brand" },
+        {
+          "value": "Multi-business",
+          "label": "with a modern public narrative"
+        },
+        { "value": "Founder-led", "label": "with a dedicated public presence" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "isabel",
+      "slug": "isabel",
+      "label": "Isabel",
+      "title": "Isabel dos Santos Amorim | Rarus Flat",
+      "headline": "CEO na Rarus Flat",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-isabel",
+      "primaryUrl": "https://rarusflats.com/",
+      "sourceUrls": [
+        "https://rarusflats.com/",
+        "https://github.com/mozgbrasil/node-vitepress-isabel"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://rarusflats.com/",
+          "label": "Rarus Flats",
+          "note": "site institucional principal"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-isabel",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [],
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "marcela",
+      "slug": "marcela",
+      "label": "Marcela",
+      "title": "Marcela dos Santos Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-marcela",
+      "primaryUrl": "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+      "sourceUrls": [
+        "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+        "https://github.com/mozgbrasil/node-vitepress-marcela"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-marcela",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [],
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "abpcm",
+      "slug": "abpcm",
+      "label": "ABPCM",
+      "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
+      "headline": "Portal nacional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "primaryUrl": "https://www.abpcm.org.br/",
+      "sourceUrls": [
+        "https://www.abpcm.org.br/",
+        "https://www.abpcm.org.br/associe-se",
+        "https://www.abpcm.org.br/general-5",
+        "https://www.abpcm.org.br/general-8",
+        "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+        "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/28022025-Negado-pedido-da-Anvisa-por-mais-prazo-para-regulamentar-uso-da-cannabis-com-fins-medicinais.aspx",
+        "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm?authuser=0",
+        "https://github.com/mozgbrasil/node-vitepress-abpcm"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.abpcm.org.br/",
+          "label": "Site oficial",
+          "note": "presenca institucional principal da associacao"
+        },
+        {
+          "href": "https://www.abpcm.org.br/associe-se",
+          "label": "Associe-se",
+          "note": "cadastro de associados com requisitos e documentacao publicados"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-8",
+          "label": "Estatuto social",
+          "note": "governanca, codigo de conduta e principios eticos"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-5",
+          "label": "Politicas do site",
+          "note": "termos, consentimento e regras publicadas pela associacao"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+          "label": "Anvisa - importacao",
+          "note": "rota oficial para importacao excepcional de produtos derivados de cannabis"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+          "label": "Anvisa 2026",
+          "note": "novas regras para producao, associacoes e atualizacao regulatoria"
+        },
+        {
+          "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+          "label": "STJ IAC 16",
+          "note": "decisao de 13 de novembro de 2024 sobre cultivo medicinal por pessoas juridicas"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+          "label": "Portal ABPCM",
+          "note": "superficie publica dedicada com legislacao, acesso e guia do paciente"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "Lei 11.343/2006",
+          "label": "base legal para autorizacao medicinal ou cientifica sob fiscalizacao"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "rota oficial de importacao excepcional via Anvisa"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "instrumento especifico para associacoes de pacientes"
+        }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Law 11.343/2006",
+          "label": "legal basis for medicinal or scientific authorization under inspection"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "official Anvisa path for exceptional import authorization"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "specific regulatory instrument for patient associations"
+        }
+      ],
+      "navLinks": [
+        { "text": "Início", "textEn": "Home", "link": "/" },
+        {
+          "text": "Legislacao",
+          "textEn": "Legislation",
+          "link": "/legislacao"
+        },
+        { "text": "Acesso", "textEn": "Access", "link": "/acesso" },
+        {
+          "text": "Guia do paciente",
+          "textEn": "Patient guide",
+          "link": "/guia-do-paciente"
+        },
+        {
+          "text": "Associacao",
+          "textEn": "Association",
+          "link": "/associacao"
+        },
+        {
+          "text": "Loja virtual",
+          "textEn": "Virtual store",
+          "link": "/loja-virtual"
+        },
+        { "text": "Contato", "textEn": "Contact", "link": "/contato" }
+      ],
+      "pages": [
+        {
+          "path": "/legislacao",
+          "title": "Legislacao",
+          "description": "Panorama regulatorio da cannabis medicinal no Brasil com links oficiais da Lei 11.343/2006, STJ e Anvisa.",
+          "titleEn": "Legislation",
+          "descriptionEn": "Brazilian medicinal cannabis regulatory overview with official links to Law 11.343/2006, STJ and Anvisa."
+        },
+        {
+          "path": "/acesso",
+          "title": "Acesso",
+          "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+          "titleEn": "Access",
+          "descriptionEn": "Practical access routes through pharmacies, exceptional import authorization and patient associations."
+        },
+        {
+          "path": "/guia-do-paciente",
+          "title": "Guia do paciente",
+          "description": "Checklist para pacientes, familiares e prescritores antes de iniciar o atendimento com cannabis medicinal.",
+          "titleEn": "Patient guide",
+          "descriptionEn": "Checklist for patients, families and prescribers before starting a medicinal cannabis care journey."
+        },
+        {
+          "path": "/associacao",
+          "title": "Associacao",
+          "description": "Missao, governanca, estatuto, servicos e canais publicos da ABPCM.",
+          "titleEn": "Association",
+          "descriptionEn": "ABPCM mission, governance, bylaws, services and public channels."
+        },
+        {
+          "path": "/loja-virtual",
+          "title": "Loja virtual",
+          "description": "Ponte publica para a futura integracao Magento e para o fluxo atual da associacao.",
+          "titleEn": "Virtual store",
+          "descriptionEn": "Public bridge to the future Magento integration and the current association flow."
+        }
+      ]
+    },
+    {
+      "id": "marcelo",
+      "slug": "marcelo",
+      "label": "Marcelo",
+      "title": "Marcelo | Cerebrum",
+      "headline": "Perfil institucional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "primaryUrl": "https://www.cerebrum.com.br/",
+      "sourceUrls": [
+        "https://www.cerebrum.com.br/",
+        "https://www.linkedin.com/in/marcerebrum/"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.cerebrum.com.br/",
+          "label": "Conhecer Cerebrum",
+          "note": "site institucional com tese de IA como infraestrutura corporativa"
+        },
+        {
+          "href": "https://www.linkedin.com/in/marcerebrum/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [
+        { "value": "AI-First", "label": "como tese central da Cerebrum" },
+        { "value": "10x volume", "label": "com escalabilidade inteligente" },
+        { "value": "CNPJ ativo", "label": "07.361.259/0001-07" }
+      ],
+      "heroMetricsEn": [
+        { "value": "AI-First", "label": "as the central Cerebrum thesis" },
+        { "value": "10x volume", "label": "through intelligent scalability" },
+        { "value": "Active tax id", "label": "07.361.259/0001-07" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "patricia",
+      "slug": "patricia",
+      "label": "Patricia",
+      "title": "Patricia Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "primaryUrl": "https://www.linkedin.com/in/patriciaamorim/",
+      "sourceUrls": ["https://www.linkedin.com/in/patriciaamorim/"],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/patriciaamorim/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [
+        { "value": "LinkedIn", "label": "como trilha profissional principal" },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
+        {
+          "value": "Gestão de produtos",
+          "label": "com leitura clara e objetiva"
+        }
+      ],
+      "heroMetricsEn": [
+        { "value": "LinkedIn", "label": "as the main professional trail" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
+        { "value": "Product leadership", "label": "with a clear narrative" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "danielle",
+      "slug": "danielle",
+      "label": "Danielle",
+      "title": "Danielle Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "primaryUrl": "https://www.linkedin.com/in/danielle-amorim-31766435/",
+      "sourceUrls": ["https://www.linkedin.com/in/danielle-amorim-31766435/"],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/danielle-amorim-31766435/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        }
+      ],
+      "schemaType": "Person",
+      "heroMetrics": [
+        {
+          "value": "LinkedIn",
+          "label": "como superficie profissional central"
+        },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
+        {
+          "value": "Presença própria",
+          "label": "com identidade profissional clara"
+        }
+      ],
+      "heroMetricsEn": [
+        { "value": "LinkedIn", "label": "as the central professional surface" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
+        { "value": "Personal presence", "label": "with a clear identity" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "edificio-campanella",
+      "slug": "edificio-campanella",
+      "label": "Edificio Campanella",
+      "title": "Edificio Campanella | Presenca digital",
+      "headline": "Perfil institucional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "primaryUrl": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+        "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+        "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+          "label": "Google Maps",
+          "note": "localizacao publica principal do condominio"
+        },
+        {
+          "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+          "label": "Consulta publica CNPJ",
+          "note": "ficha cadastral publica do condominio"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        }
+      ],
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "Desde 2002",
+          "label": "com base publica e endereco verificados"
+        },
+        { "value": "CNPJ ativo", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Since 2002",
+          "label": "with verified public references and address"
+        },
+        { "value": "Active tax id", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "ganem",
+      "slug": "ganem",
+      "label": "Ganem",
+      "title": "Familia Ganem | Presenca publica institucional",
+      "headline": "Familia de liderancas politicas com defesa publica da causa animal",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-ganem",
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "sourceUrls": [
+        "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+        "https://www.instagram.com/simoneganemsp/",
+        "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+        "https://www.instagram.com/clariceganemsp/",
+        "https://www.al.sp.gov.br/deputado?matricula=300662",
+        "https://www.instagram.com/brunoganemsp/",
+        "https://www.camara.leg.br/deputados/220635",
+        "https://www.instagram.com/lucasganem.mg/",
+        "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+          "label": "Simone Ganem | Camara Municipal de Sao Paulo",
+          "note": "pagina oficial do mandato municipal"
+        },
+        {
+          "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+          "label": "Clarice Ganem | ALESP",
+          "note": "pagina oficial do mandato estadual"
+        },
+        {
+          "href": "https://www.camara.leg.br/deputados/220635",
+          "label": "Bruno Ganem | Camara dos Deputados",
+          "note": "pagina oficial do mandato federal"
+        },
+        {
+          "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+          "label": "Lucas Ganem | CMBH",
+          "note": "pagina oficial do mandato municipal em Belo Horizonte"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+          "label": "Perfil ao vivo",
+          "note": "superficie institucional da Familia Ganem"
+        }
+      ],
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "4 liderancas",
+          "label": "publicas conectadas por uma pauta central"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "com presenca institucional distribuida"
+        },
+        { "value": "Causa animal", "label": "como bandeira publica recorrente" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "4 public leaders",
+          "label": "connected by one core public agenda"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "with distributed institutional presence"
+        },
+        { "value": "Animal cause", "label": "as a recurring public banner" }
+      ],
+      "navLinks": [],
+      "pages": []
+    }
+  ]
+}

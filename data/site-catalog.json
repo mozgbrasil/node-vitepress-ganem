@@ -1,0 +1,667 @@
+{
+  "generated_at": "2026-04-27T07:55:59.724Z",
+  "active_profile": "ganem",
+  "catalog": {
+    "site": {
+      "title": "Familia Ganem | Presenca publica institucional",
+      "description": "Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal.",
+      "author": "Familia Ganem",
+      "company": "Familia Ganem",
+      "role": "Presenca publica institucional",
+      "location": "Sao Paulo, Brasil",
+      "siteUrl": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-ganem/assets/profile-branding/ganem-wordmark.svg",
+      "email": "",
+      "phone": "",
+      "whatsapp": "",
+      "linkedIn": "",
+      "github": "",
+      "bluesky": "",
+      "githubSponsors": "",
+      "googleDevelopers": "",
+      "openProfile": "",
+      "curriculum": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "githubPages": "",
+      "profileImage": "/assets/profile-branding/ganem-wordmark.svg",
+      "institutionLogo": "/assets/profile-branding/ganem-wordmark.svg",
+      "mapsUrl": "",
+      "mapsEmbedUrl": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "startedYear": 1999,
+      "foundedYear": 2016,
+      "keywords": [
+        "Familia Ganem",
+        "Simone Ganem",
+        "Clarice Ganem",
+        "Bruno Ganem",
+        "Lucas Ganem",
+        "causa animal",
+        "presenca publica",
+        "mandatos publicos"
+      ],
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Familia Ganem",
+        "url": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+        "description": "Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal.",
+        "knowsAbout": [
+          "Familia Ganem",
+          "Simone Ganem",
+          "Clarice Ganem",
+          "Bruno Ganem",
+          "Lucas Ganem",
+          "causa animal",
+          "presenca publica",
+          "mandatos publicos"
+        ],
+        "sameAs": [
+          "https://mozgbrasil.github.io/node-vitepress-ganem/",
+          "https://github.com/mozgbrasil/node-vitepress-ganem",
+          "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+          "https://www.instagram.com/simoneganemsp/",
+          "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+          "https://www.instagram.com/clariceganemsp/",
+          "https://www.al.sp.gov.br/deputado?matricula=300662",
+          "https://www.instagram.com/brunoganemsp/",
+          "https://www.camara.leg.br/deputados/220635",
+          "https://www.instagram.com/lucasganem.mg/",
+          "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+        ]
+      },
+      "pixOptions": [],
+      "businessEntities": [
+        {
+          "name": "Familia Ganem",
+          "cnpj": "",
+          "website": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+          "role": "presenca institucional e editorial",
+          "note": "Camada publica dedicada a consolidar referencias oficiais, contexto politico e superfícies digitais da Familia Ganem."
+        }
+      ]
+    },
+    "hero": {
+      "name": "Familia Ganem",
+      "text": "Presenca publica institucional com quatro liderancas e foco recorrente na causa animal",
+      "tagline": "O website da Familia Ganem organiza mandatos, referencias oficiais e canais publicos em uma narrativa unica, simples e auditavel."
+    },
+    "pages": [
+      {
+        "path": "/",
+        "title": "Familia Ganem | Presenca publica institucional",
+        "description": "Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal."
+      },
+      {
+        "path": "/contato",
+        "title": "Contato",
+        "description": "Canais públicos e pontos principais de contato de Familia Ganem."
+      },
+      {
+        "path": "/presenca",
+        "title": "Perfis",
+        "description": "Superfícies públicas e referências principais de Familia Ganem."
+      }
+    ],
+    "specialties": [],
+    "journeyMilestones": [
+      {
+        "year": "Atual",
+        "title": "Website unificado da familia",
+        "description": "A familia passa a concentrar suas referencias oficiais e superfícies digitais em um unico destino editorial."
+      },
+      {
+        "year": "Atual",
+        "title": "Causa animal como eixo visivel",
+        "description": "A pauta recorrente de defesa animal ganha leitura clara entre camaras, assembleia e redes sociais."
+      },
+      {
+        "year": "Atual",
+        "title": "Leitura institucional simples",
+        "description": "Cada mandato permanece distinguivel, mas integrado em uma mesma arquitetura publica."
+      }
+    ],
+    "experienceHighlights": [
+      "Quatro liderancas publicas organizadas em uma unica presenca institucional.",
+      "Canais oficiais e redes sociais conectados sem misturar mandatos ou perder clareza.",
+      "Base pronta para ampliar paginas, sinais de confianca e atualizacoes futuras."
+    ],
+    "flagshipProjects": [],
+    "portfolioEntries": [],
+    "projectDossiers": [],
+    "categoryProfiles": [],
+    "capabilityDomains": [],
+    "deliveryModes": [],
+    "operationDossiers": [],
+    "operationalSignals": [],
+    "publishedSurfaces": [
+      {
+        "title": "Simone Ganem | Camara Municipal de Sao Paulo",
+        "description": "Pagina oficial da vereadora em Sao Paulo com biografia, agenda e canais de contato do gabinete.",
+        "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/"
+      },
+      {
+        "title": "Clarice Ganem | ALESP",
+        "description": "Referencia institucional do mandato estadual de Clarice Ganem na Assembleia Legislativa de Sao Paulo.",
+        "href": "https://www.al.sp.gov.br/deputado?matricula=300662"
+      },
+      {
+        "title": "Bruno Ganem | Camara dos Deputados",
+        "description": "Pagina oficial do mandato federal com dados parlamentares, biografia e contato de gabinete.",
+        "href": "https://www.camara.leg.br/deputados/220635"
+      },
+      {
+        "title": "Lucas Ganem | CMBH",
+        "description": "Pagina oficial do vereador em Belo Horizonte com historico, contato parlamentar e mandato 2025-2028.",
+        "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+      },
+      {
+        "title": "Perfil ao vivo",
+        "description": "Superficie institucional dedicada para consolidar contexto, familia politica e distribuicao editorial.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-ganem/"
+      }
+    ],
+    "publicJourneys": [],
+    "trustSignals": [
+      {
+        "title": "Mandato municipal em Sao Paulo",
+        "description": "Simone Ganem possui pagina oficial ativa na Camara Municipal de Sao Paulo com apresentacao publica e contato de gabinete.",
+        "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+        "value": "Camara SP"
+      },
+      {
+        "title": "Mandato estadual em Sao Paulo",
+        "description": "Clarice Ganem aparece em canais oficiais da Assembleia Legislativa do Estado de Sao Paulo.",
+        "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+        "value": "ALESP"
+      },
+      {
+        "title": "Mandato federal em exercicio",
+        "description": "Bruno Ganem consta como deputado federal em exercicio no portal oficial da Camara dos Deputados.",
+        "href": "https://www.camara.leg.br/deputados/220635",
+        "value": "Camara dos Deputados"
+      },
+      {
+        "title": "Representacao em Belo Horizonte",
+        "description": "Lucas Ganem possui pagina oficial de vereador na Camara Municipal de Belo Horizonte.",
+        "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+        "value": "CMBH"
+      },
+      {
+        "title": "Bandeira publica recorrente",
+        "description": "Os perfis publicos e referencias oficiais convergem na defesa da causa animal como um dos eixos centrais.",
+        "href": "https://www.instagram.com/brunoganemsp/",
+        "value": "Causa animal"
+      }
+    ],
+    "operationalPillars": [],
+    "qualityGates": [],
+    "apiRoutes": [
+      {
+        "method": "GET",
+        "path": "/api/health",
+        "description": "Status operacional e metadados de request."
+      },
+      {
+        "method": "GET",
+        "path": "/api/openapi.json",
+        "description": "Contrato OpenAPI 3.1 da camada publica e auditavel."
+      },
+      {
+        "method": "GET",
+        "path": "/api/v1/openapi.json",
+        "description": "Alias versionado do contrato OpenAPI para integracoes e tooling."
+      },
+      {
+        "method": "GET",
+        "path": "/api/profile",
+        "description": "Resumo institucional com canais e especialidades."
+      },
+      {
+        "method": "GET",
+        "path": "/api/profiles",
+        "description": "Diretorio dos perfis suportados com repositorios publicos e referencias principais."
+      },
+      {
+        "method": "GET",
+        "path": "/api/links",
+        "description": "Catalogo de links publicos da marca e da conta pessoal."
+      },
+      {
+        "method": "GET",
+        "path": "/api/catalog",
+        "description": "Catalogo compartilhado que alimenta o site e a camada publica."
+      },
+      {
+        "method": "GET",
+        "path": "/api/audit",
+        "description": "Snapshot de contagem, rotas, superficies e exportacoes publicas."
+      },
+      {
+        "method": "GET",
+        "path": "/api/discovery",
+        "description": "Inventario plano de recursos publicos para filtros, automacao e exploracao."
+      },
+      {
+        "method": "GET",
+        "path": "/api/portfolio",
+        "description": "Snapshot filtravel dos casos, stacks, categorias e sinais do portfolio."
+      },
+      {
+        "method": "GET",
+        "path": "/api/categories",
+        "description": "Diretorio tematico por categoria com sinais, stacks, capacidades e relacoes operacionais."
+      },
+      {
+        "method": "GET",
+        "path": "/api/categories/:slug",
+        "description": "Dossier aprofundado de uma categoria com portfolio, projetos, capacidades e operacao ligada."
+      },
+      {
+        "method": "GET",
+        "path": "/api/capabilities",
+        "description": "Dominios de capacidade, tecnologias e modos de entrega do laboratorio."
+      },
+      {
+        "method": "GET",
+        "path": "/api/stacks",
+        "description": "Mapa das tecnologias recorrentes com conexoes entre portfolio e capacidades."
+      },
+      {
+        "method": "GET",
+        "path": "/api/stacks/:slug",
+        "description": "Dossier aprofundado de uma stack com projetos ligados, comandos uteis e operacao relacionada."
+      },
+      {
+        "method": "GET",
+        "path": "/api/projects",
+        "description": "Diretorio filtravel dos dossiers tecnicos e operacionais por projeto."
+      },
+      {
+        "method": "GET",
+        "path": "/api/projects/:slug",
+        "description": "Detalhe de um dossier especifico com relacoes, comandos e superficies."
+      },
+      {
+        "method": "GET",
+        "path": "/api/operations",
+        "description": "Dossiers operacionais com quality gates, rotas, stacks e projetos conectados."
+      },
+      {
+        "method": "GET",
+        "path": "/api/operations/:slug",
+        "description": "Detalhe de um dossier operacional especifico para leitura profunda por fluxo."
+      },
+      {
+        "method": "GET",
+        "path": "/api/journeys",
+        "description": "Diretorio filtravel da jornada publica com etapas, links e contexto comercial."
+      },
+      {
+        "method": "GET",
+        "path": "/api/trust",
+        "description": "Diretorio de sinais institucionais para contato, prova social e politicas publicas."
+      }
+    ],
+    "contactLinks": [
+      {
+        "href": "https://www.instagram.com/simoneganemsp/",
+        "label": "Instagram Simone Ganem",
+        "note": "canal social publico da vereadora em Sao Paulo"
+      },
+      {
+        "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+        "label": "Camara SP | Simone Ganem",
+        "note": "pagina oficial do mandato municipal"
+      },
+      {
+        "href": "https://www.instagram.com/clariceganemsp/",
+        "label": "Instagram Clarice Ganem",
+        "note": "canal social publico da deputada estadual"
+      },
+      {
+        "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+        "label": "ALESP | Clarice Ganem",
+        "note": "pagina oficial do mandato estadual"
+      },
+      {
+        "href": "https://www.instagram.com/brunoganemsp/",
+        "label": "Instagram Bruno Ganem",
+        "note": "canal social publico do deputado federal"
+      },
+      {
+        "href": "https://www.camara.leg.br/deputados/220635",
+        "label": "Camara dos Deputados | Bruno Ganem",
+        "note": "pagina oficial do mandato federal"
+      },
+      {
+        "href": "https://www.instagram.com/lucasganem.mg/",
+        "label": "Instagram Lucas Ganem",
+        "note": "canal social publico do vereador em Belo Horizonte"
+      },
+      {
+        "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+        "label": "CMBH | Lucas Ganem",
+        "note": "pagina oficial do mandato municipal em Belo Horizonte"
+      }
+    ],
+    "presenceProfiles": [
+      {
+        "accent": "personal",
+        "label": "Vereadora",
+        "title": "Simone Ganem",
+        "handle": "@simoneganemsp",
+        "summary": "Presenca publica municipal em Sao Paulo com pauta social, defesa animal e canais oficiais de gabinete.",
+        "image": "/assets/profile-branding/ganem-wordmark.svg",
+        "imageAlt": "Identidade institucional da Familia Ganem",
+        "imageNote": "Mandato municipal de Simone Ganem em Sao Paulo",
+        "primaryLinks": [
+          {
+            "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+            "label": "Camara SP",
+            "note": "pagina oficial do mandato"
+          },
+          {
+            "href": "https://www.instagram.com/simoneganemsp/",
+            "label": "Instagram",
+            "note": "canal publico principal"
+          }
+        ],
+        "groups": [
+          {
+            "title": "Oficial",
+            "links": [
+              {
+                "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+                "label": "Camara Municipal de Sao Paulo"
+              }
+            ]
+          },
+          {
+            "title": "Social",
+            "links": [
+              {
+                "href": "https://www.instagram.com/simoneganemsp/",
+                "label": "Instagram"
+              },
+              {
+                "href": "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+                "label": "Facebook"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accent": "personal",
+        "label": "Deputada estadual",
+        "title": "Clarice Ganem",
+        "handle": "@clariceganemsp",
+        "summary": "Presenca estadual em Sao Paulo com referencias publicas ligadas a causa animal e atuacao parlamentar.",
+        "image": "/assets/profile-branding/ganem-wordmark.svg",
+        "imageAlt": "Identidade institucional da Familia Ganem",
+        "imageNote": "Mandato estadual de Clarice Ganem em Sao Paulo",
+        "primaryLinks": [
+          {
+            "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+            "label": "ALESP",
+            "note": "pagina oficial do mandato"
+          },
+          {
+            "href": "https://www.instagram.com/clariceganemsp/",
+            "label": "Instagram",
+            "note": "canal publico principal"
+          }
+        ],
+        "groups": [
+          {
+            "title": "Oficial",
+            "links": [
+              {
+                "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+                "label": "Assembleia Legislativa de Sao Paulo"
+              }
+            ]
+          },
+          {
+            "title": "Social",
+            "links": [
+              {
+                "href": "https://www.instagram.com/clariceganemsp/",
+                "label": "Instagram"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accent": "personal",
+        "label": "Deputado federal",
+        "title": "Bruno Ganem",
+        "handle": "@brunoganemsp",
+        "summary": "Presenca federal por Sao Paulo com pagina oficial na Camara dos Deputados e discurso publico associado a causa animal.",
+        "image": "/assets/profile-branding/ganem-wordmark.svg",
+        "imageAlt": "Identidade institucional da Familia Ganem",
+        "imageNote": "Mandato federal de Bruno Ganem por Sao Paulo",
+        "primaryLinks": [
+          {
+            "href": "https://www.camara.leg.br/deputados/220635",
+            "label": "Camara dos Deputados",
+            "note": "pagina oficial do mandato"
+          },
+          {
+            "href": "https://www.instagram.com/brunoganemsp/",
+            "label": "Instagram",
+            "note": "canal publico principal"
+          }
+        ],
+        "groups": [
+          {
+            "title": "Oficial",
+            "links": [
+              {
+                "href": "https://www.camara.leg.br/deputados/220635",
+                "label": "Camara dos Deputados"
+              }
+            ]
+          },
+          {
+            "title": "Social",
+            "links": [
+              {
+                "href": "https://www.instagram.com/brunoganemsp/",
+                "label": "Instagram"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accent": "personal",
+        "label": "Vereador",
+        "title": "Lucas Ganem",
+        "handle": "@lucasganem.mg",
+        "summary": "Presenca municipal em Belo Horizonte com referencia oficial na CMBH e pauta publica ligada a causa animal.",
+        "image": "/assets/profile-branding/ganem-wordmark.svg",
+        "imageAlt": "Identidade institucional da Familia Ganem",
+        "imageNote": "Mandato municipal de Lucas Ganem em Belo Horizonte",
+        "primaryLinks": [
+          {
+            "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+            "label": "CMBH",
+            "note": "pagina oficial do mandato"
+          },
+          {
+            "href": "https://www.instagram.com/lucasganem.mg/",
+            "label": "Instagram",
+            "note": "canal publico principal"
+          }
+        ],
+        "groups": [
+          {
+            "title": "Oficial",
+            "links": [
+              {
+                "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+                "label": "Camara Municipal de Belo Horizonte"
+              }
+            ]
+          },
+          {
+            "title": "Social",
+            "links": [
+              {
+                "href": "https://www.instagram.com/lucasganem.mg/",
+                "label": "Instagram"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "profileContext": {
+      "id": "ganem",
+      "slug": "ganem",
+      "label": "Ganem",
+      "title": "Familia Ganem | Presenca publica institucional",
+      "headline": "Familia de liderancas politicas com defesa publica da causa animal",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-ganem",
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "sourceUrls": [
+        "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+        "https://www.instagram.com/simoneganemsp/",
+        "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+        "https://www.instagram.com/clariceganemsp/",
+        "https://www.al.sp.gov.br/deputado?matricula=300662",
+        "https://www.instagram.com/brunoganemsp/",
+        "https://www.camara.leg.br/deputados/220635",
+        "https://www.instagram.com/lucasganem.mg/",
+        "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+          "label": "Simone Ganem | Camara Municipal de Sao Paulo",
+          "note": "pagina oficial do mandato municipal"
+        },
+        {
+          "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+          "label": "Clarice Ganem | ALESP",
+          "note": "pagina oficial do mandato estadual"
+        },
+        {
+          "href": "https://www.camara.leg.br/deputados/220635",
+          "label": "Bruno Ganem | Camara dos Deputados",
+          "note": "pagina oficial do mandato federal"
+        },
+        {
+          "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+          "label": "Lucas Ganem | CMBH",
+          "note": "pagina oficial do mandato municipal em Belo Horizonte"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+          "label": "Perfil ao vivo",
+          "note": "superficie institucional da Familia Ganem"
+        }
+      ],
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "4 liderancas",
+          "label": "publicas conectadas por uma pauta central"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "com presenca institucional distribuida"
+        },
+        { "value": "Causa animal", "label": "como bandeira publica recorrente" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "4 public leaders",
+          "label": "connected by one core public agenda"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "with distributed institutional presence"
+        },
+        { "value": "Animal cause", "label": "as a recurring public banner" }
+      ],
+      "navLinks": [],
+      "pages": []
+    }
+  },
+  "audit": {
+    "generated_at": "2026-04-27T07:55:59.724Z",
+    "company": "Familia Ganem",
+    "site_url": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+    "counts": {
+      "pages": 3,
+      "api_routes": 21,
+      "discovery_items": 59,
+      "portfolio_entries": 0,
+      "project_dossiers": 0,
+      "category_profiles": 0,
+      "capability_domains": 0,
+      "delivery_modes": 0,
+      "stack_technologies": 0,
+      "operation_dossiers": 0,
+      "public_journeys": 0,
+      "trust_signals": 5,
+      "specialties": 0,
+      "projects": 0,
+      "surfaces": 5,
+      "presence_profiles": 4,
+      "presence_groups": 8,
+      "presence_links": 17,
+      "contact_links": 8
+    },
+    "pages": ["/", "/contato", "/presenca"],
+    "api_paths": [
+      "/api/health",
+      "/api/openapi.json",
+      "/api/v1/openapi.json",
+      "/api/profile",
+      "/api/profiles",
+      "/api/links",
+      "/api/catalog",
+      "/api/audit",
+      "/api/discovery",
+      "/api/portfolio",
+      "/api/categories",
+      "/api/categories/:slug",
+      "/api/capabilities",
+      "/api/stacks",
+      "/api/stacks/:slug",
+      "/api/projects",
+      "/api/projects/:slug",
+      "/api/operations",
+      "/api/operations/:slug",
+      "/api/journeys",
+      "/api/trust"
+    ],
+    "quality_gates": [],
+    "static_exports": [
+      "/data/site-catalog.json",
+      "/data/site-audit.json",
+      "/data/site-discovery.json",
+      "/data/site-portfolio.json",
+      "/data/site-categories.json",
+      "/data/site-capabilities.json",
+      "/data/site-projects.json",
+      "/data/site-stacks.json",
+      "/data/site-operations.json",
+      "/data/site-journeys.json",
+      "/data/site-trust.json",
+      "/data/site-profiles.json",
+      "/llms.txt",
+      "/robots.txt"
+    ]
+  }
+}

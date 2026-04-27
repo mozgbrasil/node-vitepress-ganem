@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-27T07:55:59.236Z",
+  "profile_id": "ganem",
+  "label": "Ganem",
+  "title": "Familia Ganem | Presenca publica institucional",
+  "headline": "Familia de liderancas politicas com defesa publica da causa animal",
+  "primary_url": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+  "public_repository": "https://github.com/mozgbrasil/node-vitepress-ganem",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+  "source_urls": [
+    "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+    "https://www.instagram.com/simoneganemsp/",
+    "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+    "https://www.instagram.com/clariceganemsp/",
+    "https://www.al.sp.gov.br/deputado?matricula=300662",
+    "https://www.instagram.com/brunoganemsp/",
+    "https://www.camara.leg.br/deputados/220635",
+    "https://www.instagram.com/lucasganem.mg/",
+    "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+  ],
+  "reference_links": [
+    {
+      "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+      "label": "Simone Ganem | Camara Municipal de Sao Paulo",
+      "note": "pagina oficial do mandato municipal"
+    },
+    {
+      "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+      "label": "Clarice Ganem | ALESP",
+      "note": "pagina oficial do mandato estadual"
+    },
+    {
+      "href": "https://www.camara.leg.br/deputados/220635",
+      "label": "Bruno Ganem | Camara dos Deputados",
+      "note": "pagina oficial do mandato federal"
+    },
+    {
+      "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+      "label": "Lucas Ganem | CMBH",
+      "note": "pagina oficial do mandato municipal em Belo Horizonte"
+    },
+    {
+      "href": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "label": "Perfil ao vivo",
+      "note": "superficie institucional da Familia Ganem"
+    }
+  ]
+}

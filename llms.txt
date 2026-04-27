@@ -5,7 +5,7 @@
 - Role: Presenca publica institucional
 - Location: Sao Paulo, Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-ganem/
-- Generated at: 2026-04-27T07:55:59.724Z
+- Generated at: 2026-04-27T08:52:38.550Z
 
 ## Summary
 Website institucional da Familia Ganem reunindo Simone Ganem, Clarice Ganem, Bruno Ganem e Lucas Ganem em uma presenca publica organizada, simples e orientada a causa animal.
